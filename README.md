@@ -1,12 +1,14 @@
 # react-test
----
-### 설치방법
+
+### 생성방법
 - \> npm install -g create-react-app
 - \> npm create-react-app 앱이름
 - \> cd 앱이름
+- \> npm run eject (선택사항)
 - \> npm start
 
 ### 실행방법
-- cd hello-react
+- \> git clone https://github.com/1004w455/react-test.git
+- \> cd 앱이름
 - \> npm install
 - \> npm start
