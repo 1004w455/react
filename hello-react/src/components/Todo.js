@@ -1,11 +1,9 @@
 /**
  * Created by 1004w455 on 2016. 7. 26..
  */
-import React, {Component} from 'react';
-
-import List from './List';
-
-import './style.css';
+import React, {Component} from "react";
+import List from "./List";
+import "./style.css";
 
 class Todo extends Component {
     constructor() {
