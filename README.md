@@ -8,7 +8,7 @@
 - \> npm start
 
 ### 실행방법
-- \> git clone https://github.com/1004w455/react-test.git
+- \> git clone https://github.com/1004w455/react.git
 - \> cd 앱이름
 - \> npm install
 - \> npm start
