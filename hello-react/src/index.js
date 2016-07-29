@@ -10,6 +10,7 @@ ReactDOM.render(
     rootEl
 );
 
+// hot module 적용
 if (module.hot) {
     module.hot.accept('./App', () => {
         const NextApp = require('./App').default;
